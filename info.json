@@ -1,0 +1,7 @@
+{
+  "name": "ComfyUI-LikeSpiderAI-SaveMP3",
+  "author": "Pigidiy",
+  "version": "1.0",
+  "description": "Save AUDIO to .mp3 in ComfyUI with bitrate selection and ffmpeg conversion.",
+  "python_version": ">=3.10"
+}
