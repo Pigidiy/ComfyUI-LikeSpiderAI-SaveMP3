@@ -1,0 +1,15 @@
+[project]
+name = "likespiderai-savemp3"
+description = "A custom ComfyUI node that saves input AUDIO as .mp3 using ffmpeg."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Pigidiy/ComfyUI-LikeSpiderAI-SaveMP3"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-LikeSpiderAI-SaveMP3"
+Icon = ""
+includes = []
